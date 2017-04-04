@@ -1,1 +1,2 @@
 # daycare-subset
+This repo contains a portion of the source code of a daycare site that I'm currently working on. You can visit the site here: http://ratingsville.com/ It's built using the MEAN stack. (MongoDB, Express, AngularJS, Node.js)
